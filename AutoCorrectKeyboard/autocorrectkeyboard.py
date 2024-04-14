@@ -53,7 +53,7 @@ if __name__ == "__main__":
     vocabulary = {"apple", "banana", "orange", "pear", "peach"}
     autocorrector = AutocorrectKeyboard(vocabulary)
 
-    input_text = "I like to eat appl and banaba."
+    input_text = "appl banna orgne."
     corrected_text = " ".join(autocorrector.autocorrect(word) for word in input_text.split())
     print("Original Text:", input_text)
     print("Corrected Text:", corrected_text)
