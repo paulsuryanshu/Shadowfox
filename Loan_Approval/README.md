@@ -1,1 +1,1 @@
-3.Loan Approval Prediction with Machine Learning using Python
+Loan Approval Prediction with Machine Learning using Python
